@@ -8,7 +8,7 @@ project "ImGuizmo"
 
    includedirs
    {
-      "example"
+      "../imgui"
    }
 
 	files
